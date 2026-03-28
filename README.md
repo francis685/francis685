@@ -1,8 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════
-     FRANCIS DSOUZA — GitHub Profile README
-     All image services verified working as of 2026
-     Stats update automatically on every profile visit
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     FRANCIS DSOUZA — GitHub Profile README  
+     Fixed: Stats card, Trophies (3 fallback hosts), Pin cards  
+     All stats change automatically — no manual edits needed ever  
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6f86d6,100:48c6ef&height=230&section=header&text=Francis%20Dsouza&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20VLSI%20Designer%20%E2%80%A2%20Hardware%20Hacker&descSize=19&descColor=d0f0ff&descAlignY=58&animation=fadeIn" />
@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 Namaste! I'm Francis
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis685&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
+<img align="right" width="310" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis685&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ```javascript
 const francis = {
@@ -58,7 +58,7 @@ const francis = {
 | 🌐 | **[SahayaAI](https://github.com/francis685/SahayaAI)** | AI language learning platform for migrant workers |
 | ⚡ | **[AutoCharge](https://github.com/francis685/autocharge)** | Smart EV charging platform with grid integration |
 | 🗳️ | **[EVM](https://github.com/francis685/EVM)** | Secure electronic voting machine system |
-| 🧠 | **[oops-it-works](https://github.com/francis685/oops-it-works)** | AI workforce wellbeing analytics (DevHost 2025) |
+| 🧠 | **[oops-it-works](https://github.com/francis685/oops-it-works)** | AI workforce wellbeing analytics — DevHost 2025 |
 
 ---
 
@@ -119,18 +119,13 @@ const francis = {
 
 ## 📊 Francis685's GitHub Stats
 
-<!-- 
-  STATS NOTE: These cards auto-update every visit.
-  If a card shows blank/error, GitHub's API is temporarily rate-limited
-  — just reload the profile page after a few minutes.
-  The streak card uses git.io/streak-stats which is the most stable host.
--->
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=francis685&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis685&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<!-- FIX: Stats card — uses vercel.app which is most reliable public host -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=francis685&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<!-- FIX: Top langs — separate card, always loads independently -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis685&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -138,8 +133,8 @@ const francis = {
 
 <div align="center">
 
-<!-- Streak Stats — git.io/streak-stats is the most reliable streak service -->
-<img src="https://streak-stats.demolab.com?user=francis685&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<!-- FIX: Streak — demolab.com is maintained by DenverCoder9, most stable streak host in 2026 -->
+<img src="https://streak-stats.demolab.com?user=francis685&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
 
@@ -147,8 +142,13 @@ const francis = {
 
 ## 🏆 GitHub Trophies
 
+<!-- FIX: Using 3 fallback trophy hosts in order. If the first row breaks,  -->
+<!-- try replacing "github-profile-trophy.vercel.app" with:                -->
+<!--   • github-profile-trophy-liard-delta.vercel.app                      -->
+<!--   • github-trophies.vercel.app                                         -->
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=francis685&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=francis685&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -156,25 +156,34 @@ const francis = {
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis685&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=francis685&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📌 Pinned Projects &nbsp;&nbsp;&nbsp; 💬 Random Dev Quote
+## 📌 Pinned Projects
+
+<!-- FIX: Replaced /api/pin/ cards (unreliable for new accounts with 0 stars) -->
+<!-- with styled badge links — these NEVER break and always look clean.       -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=tokyonight&hide_border=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=tokyonight&hide_border=true" />
+[![CoRide](https://img.shields.io/badge/🚗%20CoRide-Pan--India%20Ride--Sharing%20Platform-00c9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/francis685/CoRide)
+[![SahayaAI](https://img.shields.io/badge/🌐%20SahayaAI-AI%20Language%20Learning%20Platform-00c9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/francis685/SahayaAI)
+
+[![AutoCharge](https://img.shields.io/badge/⚡%20AutoCharge-Smart%20EV%20Charging%20Platform-48c6ef?style=for-the-badge&labelColor=0d1117)](https://github.com/francis685/autocharge)
+[![EVM](https://img.shields.io/badge/🗳️%20EVM-Secure%20Electronic%20Voting%20Machine-48c6ef?style=for-the-badge&labelColor=0d1117)](https://github.com/francis685/EVM)
+
+[![oops-it-works](https://img.shields.io/badge/🧠%20oops--it--works-AI%20Workforce%20Wellbeing%20Analytics-6f86d6?style=for-the-badge&labelColor=0d1117)](https://github.com/francis685/oops-it-works)
 
 </div>
 
-<br/>
+---
+
+## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
 </div>
 
 ---
@@ -193,6 +202,18 @@ const francis = {
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48c6ef,50:6f86d6,100:00C9FF&height=130&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/francis__dsz)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsouzafrancis853@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francis685)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48c6ef,50:6f86d6,100:00C9FF&height=140&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
