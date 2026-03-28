@@ -56,7 +56,9 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a>
+    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/francis685"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=francis685&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/Project-3"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-3&theme=nord" /></a> <a href="https://github.com/francis685/Project-4"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-4&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/Project-5"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-5&theme=nord" /></a> <a href="https://github.com/francis685/Project-6"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-6&theme=nord" /></a>
   </p>
 </div>
 
