@@ -1,30 +1,33 @@
+<!-- ═══════════════════════════════════════════════════════════
+     FRANCIS DSOUZA — GitHub Profile README
+     All image services verified working as of 2026
+     Stats update automatically on every profile visit
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a1a2e,100:0d1117&height=220&section=header&text=Francis%20Dsouza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20VLSI%20Designer%20%E2%80%A2%20Hardware%20Hacker&descSize=18&descColor=58a6ff&descAlignY=58&animation=fadeIn" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6f86d6,100:48c6ef&height=230&section=header&text=Francis%20Dsouza&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20VLSI%20Designer%20%E2%80%A2%20Hardware%20Hacker&descSize=19&descColor=d0f0ff&descAlignY=58&animation=fadeIn" />
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Francis+Dsouza+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;VLSI+%26+Hardware+Design+Engineer+%E2%9A%A1;NoC+Router+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Bridging+Software+and+Silicon+%F0%9F%94%A7" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=780&lines=Hey!+I'm+Francis+Dsouza+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;VLSI+%26+Hardware+Design+Engineer+%E2%9A%A1;NoC+Router+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Building+bridges+between+Software+%26+Silicon+%F0%9F%94%A7" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=francis685&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/francis685)
-[![GitHub followers](https://img.shields.io/github/followers/francis685?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1a2e)](https://github.com/francis685?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/francis685?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=1a1a2e)](https://github.com/francis685)
+[![Profile Views](https://komarev.com/ghpvc/?username=francis685&label=Profile+Views&color=00c9ff&style=for-the-badge)](https://github.com/francis685)&nbsp;
+[![Followers](https://img.shields.io/github/followers/francis685?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117)](https://github.com/francis685?tab=followers)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/francis__dsz)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsouzafrancis853@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis685&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+## 🧑‍💻 Namaste! I'm Francis
 
-## 🧑‍💻 Namaste! I'm Francis Dsouza
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis685&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
 
 ```javascript
 const francis = {
@@ -35,7 +38,7 @@ const francis = {
   current    : "NoC Router DoS Detection (VLSI + ML)",
   learning   : ["AMBA AXI/AHB", "PCB Design", "RTL"],
   building   : ["CoRide 🚗", "SahayaAI 🌐",
-                "AutoCharge ⚡"],
+                "AutoCharge ⚡", "EVM 🗳️"],
   askMeAbout : ["React", "Node", "Verilog",
                 "Arduino", "KiCad"],
   funFact    : "I debug silicon by day, JS by night ⚡"
@@ -48,28 +51,14 @@ const francis = {
 
 ## 🚀 What I'm Hacking On
 
-<table>
-<tr>
-<td>🛡️ &nbsp;<b>NoC Router DoS Detection</b></td>
-<td>VLSI-based ML security module for network-on-chip attack detection in real time</td>
-</tr>
-<tr>
-<td>🚗 &nbsp;<b><a href="https://github.com/francis685/CoRide">CoRide</a></b></td>
-<td>Pan-India ride-sharing & carpooling platform connecting cities across the country</td>
-</tr>
-<tr>
-<td>🌐 &nbsp;<b><a href="https://github.com/francis685/SahayaAI">SahayaAI</a></b></td>
-<td>AI-powered local language learning platform for migrant workers</td>
-</tr>
-<tr>
-<td>⚡ &nbsp;<b><a href="https://github.com/francis685/autocharge">AutoCharge</a></b></td>
-<td>Revolutionary EV charging platform with smart grid integration</td>
-</tr>
-<tr>
-<td>🗳️ &nbsp;<b><a href="https://github.com/francis685/EVM">EVM</a></b></td>
-<td>Electronic Voting Machine — secure, tamper-proof digital voting system</td>
-</tr>
-</table>
+| | Project | Description |
+|---|---|---|
+| 🛡️ | **NoC Router DoS Detection** | VLSI + ML security module for network-on-chip attack detection |
+| 🚗 | **[CoRide](https://github.com/francis685/CoRide)** | Pan-India ride-sharing & carpooling platform |
+| 🌐 | **[SahayaAI](https://github.com/francis685/SahayaAI)** | AI language learning platform for migrant workers |
+| ⚡ | **[AutoCharge](https://github.com/francis685/autocharge)** | Smart EV charging platform with grid integration |
+| 🗳️ | **[EVM](https://github.com/francis685/EVM)** | Secure electronic voting machine system |
+| 🧠 | **[oops-it-works](https://github.com/francis685/oops-it-works)** | AI workforce wellbeing analytics (DevHost 2025) |
 
 ---
 
@@ -80,8 +69,8 @@ const francis = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -123,61 +112,69 @@ const francis = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ---
 
 ## 📊 Francis685's GitHub Stats
 
+<!-- 
+  STATS NOTE: These cards auto-update every visit.
+  If a card shows blank/error, GitHub's API is temporarily rate-limited
+  — just reload the profile page after a few minutes.
+  The streak card uses git.io/streak-stats which is the most stable host.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=francis685&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=francis685&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francis685&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="48%" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis685&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Streak Stats — git.io/streak-stats is the most reliable streak service -->
+<img src="https://streak-stats.demolab.com?user=francis685&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 💻 Most Used Languages
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francis685&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10" width="60%" alt="Top Languages" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=francis685&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 📈 Contribution Activity Graph
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=francis685&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francis685&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📌 Pinned Projects &nbsp;&nbsp;&nbsp; 💬 Random Dev Quote
 
 <div align="center">
 
-[![Francis Dsouza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=francis685&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=58a6ff&hide_border=true)](https://github.com/francis685)
-
-</div>
-
----
-
-## 📌 Top Contributed Repos &nbsp;&nbsp; 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=francis685&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="48%" alt="Top Contributed Repos" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=tokyonight&hide_border=true" />
 &nbsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48%" alt="Random Dev Quote" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%" />
 </div>
 
 ---
@@ -196,28 +193,6 @@ const francis = {
 
 ---
 
-## 🤝 Support Me
-
 <div align="center">
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/francis__dsz)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francis685)
-
-</div>
-
-<br>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48c6ef,50:6f86d6,100:00C9FF&height=130&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
