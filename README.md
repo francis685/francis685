@@ -14,7 +14,6 @@
 
   <a style="display:block;" href="https://github.com/francis685?tab=repositories&q=&type=source&language=&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/francis685" /></a>
-  
 </div>
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif?raw=true" />
@@ -22,7 +21,7 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently developing a NoC Router DoS Attack Detection Module using VLSI & ML.<br>
-  🔭 I worked on Full-Stack Web Development and rapid prototyping for hackathons.<br>
+  🔭 I work on Full-Stack Web Development and rapid prototyping for hackathons.<br>
   💬 Skills I acquire in technologies such as AMBA bus protocols (AXI/AHB) & PCB Design (KiCad).<br>
   ⚡ Interest in VLSI, AI/ML, IoT, and bridging software with physical hardware.<br>
 </p>
@@ -56,12 +55,10 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/francis685"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=francis685&theme=nord" /></a><br>
-    <a href="https://github.com/francis685/Project-3"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-3&theme=nord" /></a> <a href="https://github.com/francis685/Project-4"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-4&theme=nord" /></a><br>
-    <a href="https://github.com/francis685/Project-5"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-5&theme=nord" /></a> <a href="https://github.com/francis685/Project-6"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-6&theme=nord" /></a>
+    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/autocharge"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=autocharge&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/SahayaAI"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=nord" /></a> <a href="https://github.com/francis685/oops-it-works"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=oops-it-works&theme=nord" /></a>
   </p>
 </div>
-
 
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
