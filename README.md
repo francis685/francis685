@@ -21,7 +21,7 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently developing a NoC Router DoS Attack Detection Module using VLSI & ML.<br>
-  🔭 I work on Full-Stack Web Development and rapid prototyping for hackathons.<br>
+  🔭 I worked on Full-Stack Web Development and rapid prototyping for hackathons.<br>
   💬 Skills I acquire in technologies such as AMBA bus protocols (AXI/AHB) & PCB Design (KiCad).<br>
   ⚡ Interest in VLSI, AI/ML, IoT, and bridging software with physical hardware.<br>
 </p>
@@ -34,8 +34,8 @@
   <a href="https://www.spotify.com/in-en/account/overview/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png?raw=true" alt="Spotify" /></a>
 </div>
 
-<br clear="both">
 <br>
+<br clear="both">
 
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
@@ -55,27 +55,25 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-    <a href="https://github.com/francis685/CoRide">
-      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" />
-    </a>
+    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/francis685"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=francis685&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/Project-3"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-3&theme=nord" /></a> <a href="https://github.com/francis685/Project-4"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-4&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/Project-5"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-5&theme=nord" /></a> <a href="https://github.com/francis685/Project-6"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=Project-6&theme=nord" /></a>
   </p>
 </div>
 
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>
 
 <br>
