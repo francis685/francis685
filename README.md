@@ -18,7 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=francis685&label=Profile+Views&color=00c9ff&style=for-the-badge)](https://github.com/francis685)&nbsp;
 [![Followers](https://img.shields.io/github/followers/francis685?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117)](https://github.com/francis685?tab=followers)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/francis__dsz)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franciss__dsz/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsouzafrancis853@gmail.com)
 
 </div>
@@ -206,7 +206,7 @@ const francis = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/francis__dsz)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franciss__dsz/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsouzafrancis853@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francis685)
 
