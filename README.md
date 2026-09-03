@@ -21,9 +21,9 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently developing a NoC Router DoS Attack Detection Module using VLSI & ML.<br>
-  🔭 Passionate about <b>end-to-end electronics design</b>, from circuit schematics to physical hardware prototyping.<br>
-  💬 Deeply skilled in AMBA bus protocols (AXI/AHB), PCB Design (KiCad), and Embedded Systems architecture.<br>
-  ⚡ Bridging the gap between Full-Stack Web Development, IoT hardware integration, and custom Silicon.<br>
+  🔭 I specialize in ASIC/FPGA design, RTL coding, and physical design for core electronics.<br>
+  💬 Deeply skilled in AMBA bus protocols (AXI/AHB), PCB Design (KiCad), and Embedded Firmware.<br>
+  ⚡ Passionate about VLSI, chip architecture, IoT hardware integration, and building robust silicon.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
@@ -37,11 +37,10 @@
 <br clear="both">
 <br>
 
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<h3 align="center">📚 Core Tools & Systems I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,mongodb,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,c,cpp,linux,arduino,raspberrypi,aws,docker,git" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,bash,ubuntu" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,git,github,bash,ubuntu,docker" /><br>
 </div>
 
 <br>
@@ -60,30 +59,35 @@
   </p>
 </div>
 
-<h3 align="center">💻 Tech Stack & Hardware Design</h3>
+<h3 align="center">💻 Electronics & Core Tech Stack</h3>
 <div align="center">
 
-<p><strong>Software & ML Engineering</strong></p>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<p><strong>Hardware Description & VLSI</strong></p>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=fpga&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SystemVerilog-000080?style=for-the-badge&logo=chip&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VLSI_Design-4B0082?style=for-the-badge&logo=data&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cadence-E31837?style=for-the-badge&logo=cadence&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Synopsys-5B2C6F?style=for-the-badge&logo=synopsys&logoColor=white"></a>
 
 <br><br>
 
-<p><strong>Electronics, VLSI & Embedded Systems</strong></p>
-<a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
+<p><strong>Embedded Systems & PCB Design</strong></p>
+<a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ARM_Architecture-0091BD?style=for-the-badge&logo=arm&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Verilog_%2F_VHDL-000000?style=for-the-badge&logo=fpga&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VLSI_Design-4B0082?style=for-the-badge&logo=data&logoColor=white"></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"></a>
+
+<br><br>
+
+<p><strong>Analysis & OS</strong></p>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=matlab&logoColor=white"></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 
 </div>
 
