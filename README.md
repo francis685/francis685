@@ -54,8 +54,8 @@
 <div align="center">
   <h3>⭐️ Core Engineering Repositories</h3>
   <p align="center">
-    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/autocharge"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=autocharge&theme=nord" /></a><br>
-    <a href="https://github.com/francis685/SahayaAI"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=nord" /></a> <a href="https://github.com/francis685/oops-it-works"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=oops-it-works&theme=nord" /></a>
+    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/autocharge"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=autocharge&theme=nord" /></a><br>
+    <a href="https://github.com/francis685/SahayaAI"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=nord" /></a> <a href="https://github.com/francis685/oops-it-works"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=oops-it-works&theme=nord" /></a>
   </p>
 </div>
 
