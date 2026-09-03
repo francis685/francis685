@@ -21,9 +21,9 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently developing a NoC Router DoS Attack Detection Module using VLSI & ML.<br>
-  🔭 I work on Full-Stack Web Development and rapid prototyping for hackathons.<br>
-  💬 Skills I acquire in technologies such as AMBA bus protocols (AXI/AHB) & PCB Design (KiCad).<br>
-  ⚡ Interest in VLSI, AI/ML, IoT, and bridging software with physical hardware.<br>
+  🔭 Passionate about <b>end-to-end electronics design</b>, from circuit schematics to physical hardware prototyping.<br>
+  💬 Deeply skilled in AMBA bus protocols (AXI/AHB), PCB Design (KiCad), and Embedded Systems architecture.<br>
+  ⚡ Bridging the gap between Full-Stack Web Development, IoT hardware integration, and custom Silicon.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
@@ -40,7 +40,7 @@
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,mongodb,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,c,cpp,linux,arduino,aws,docker,git" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,c,cpp,linux,arduino,raspberrypi,aws,docker,git" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,bash,ubuntu" /><br>
 </div>
 
@@ -60,9 +60,10 @@
   </p>
 </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack & Hardware Design</h3>
 <div align="center">
 
+<p><strong>Software & ML Engineering</strong></p>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
@@ -70,10 +71,19 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+
+<br><br>
+
+<p><strong>Electronics, VLSI & Embedded Systems</strong></p>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Verilog_%2F_VHDL-000000?style=for-the-badge&logo=fpga&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VLSI_Design-4B0082?style=for-the-badge&logo=data&logoColor=white"></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 
 </div>
 
