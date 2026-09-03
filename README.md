@@ -20,10 +20,10 @@
 
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently developing a NoC Router DoS Attack Detection Module using VLSI & ML.<br>
-  🔭 I specialize in ASIC/FPGA design, RTL coding, and physical design for core electronics.<br>
-  💬 Deeply skilled in AMBA bus protocols (AXI/AHB), PCB Design (KiCad), and Embedded Firmware.<br>
-  ⚡ Passionate about VLSI, chip architecture, IoT hardware integration, and building robust silicon.<br>
+  🌱 I am an <b>Electronics and Communication Engineering (ECE)</b> student specializing in core hardware.<br>
+  🔭 Currently developing a <b>NoC Router DoS Attack Detection Module</b> using VLSI & ML.<br>
+  💬 Deeply skilled in RTL Design, AMBA bus protocols (AXI/AHB), and PCB Fabrication (KiCad).<br>
+  ⚡ Passionate about ASIC/FPGA architecture, Embedded Firmware, and Signal Processing.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
@@ -37,7 +37,7 @@
 <br clear="both">
 <br>
 
-<h3 align="center">📚 Core Tools & Systems I Have Placed My Hands On</h3>
+<h3 align="center">📚 ECE Tools & Systems I Have Placed My Hands On</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,arduino" /><br>
   <img src="https://skillicons.dev/icons?i=raspberrypi,git,github,bash,ubuntu,docker" /><br>
@@ -52,42 +52,42 @@
 </div>
 
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
+  <h3>⭐️ Core Engineering Repositories</h3>
   <p align="center">
     <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/autocharge"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=autocharge&theme=nord" /></a><br>
     <a href="https://github.com/francis685/SahayaAI"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=nord" /></a> <a href="https://github.com/francis685/oops-it-works"><img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=francis685&repo=oops-it-works&theme=nord" /></a>
   </p>
 </div>
 
-<h3 align="center">💻 Electronics & Core Tech Stack</h3>
+<h3 align="center">💻 ECE & Core Electronics Tech Stack</h3>
 <div align="center">
 
 <p><strong>Hardware Description & VLSI</strong></p>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=fpga&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SystemVerilog-000080?style=for-the-badge&logo=chip&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=intel&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VLSI_Design-4B0082?style=for-the-badge&logo=data&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Xilinx-E31837?style=for-the-badge&logo=xilinx&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cadence-E31837?style=for-the-badge&logo=cadence&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Synopsys-5B2C6F?style=for-the-badge&logo=synopsys&logoColor=white"></a>
 
 <br><br>
 
-<p><strong>Embedded Systems & PCB Design</strong></p>
+<p><strong>Embedded Systems, Microcontrollers & PCB</strong></p>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ARM_Architecture-0091BD?style=for-the-badge&logo=arm&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Altium_Designer-A5A4A5?style=for-the-badge&logo=altium&logoColor=black"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"></a>
 
 <br><br>
 
-<p><strong>Analysis & OS</strong></p>
+<p><strong>Signal Processing & Analysis</strong></p>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=matlab&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LabVIEW-FFCC00?style=for-the-badge&logo=labview&logoColor=black"></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 
 </div>
 
