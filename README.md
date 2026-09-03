@@ -51,13 +51,20 @@
   <img width="420" src="https://streak-stats.demolab.com/?user=francis685&theme=nord&hide_border=false" alt="streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <h3>⭐️ Core Engineering Repositories</h3>
-  <p align="center">
-    <a href="https://github.com/francis685/CoRide"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=CoRide&theme=nord" /></a> <a href="https://github.com/francis685/autocharge"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=autocharge&theme=nord" /></a><br>
-    <a href="https://github.com/francis685/SahayaAI"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=SahayaAI&theme=nord" /></a> <a href="https://github.com/francis685/oops-it-works"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=francis685&repo=oops-it-works&theme=nord" /></a>
-  </p>
+  <h3>📈 Contribution Activity</h3>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=francis685&theme=nord&bg_color=2E3440&color=88C0D0&line=81A1C1&point=B48EAD&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Dev Quote" width="800" />
+</div>
+
+<br>
 
 <h3 align="center">💻 ECE & Core Electronics Tech Stack</h3>
 <div align="center">
